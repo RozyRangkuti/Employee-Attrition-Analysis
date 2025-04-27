@@ -29,7 +29,7 @@ Jaya Jaya Maju Employees Dashboard ini dirancang seefisien mungkin untuk memberi
 
 
 ## Conclusion
-1. Pada tahap awal karier, karyawan cenderung lebih sering berpindah pekerjaan. Namun, setelah mereka membangun keluarga atau mencapai stabilitas dalam karier, mereka cenderung menetap lebih lama di satu organisasi dan melakukan perpindahan secara vertikal di dalam organisasi tersebut.
+1. Pada tahap awal karier, karyawan cenderung lebih sering berpindah pekerjaan. Namun, setelah mereka membangun keluarga atau mencapai stabilitas dalam karier, mereka cenderung menetap lebih lama di satu perusahaan dan melakukan perpindahan secara vertikal di dalam perusahaan tersebut.
 2. Gaji merupakan faktor motivasi yang kuat bagi karyawan, di mana peningkatan gaji berkontribusi pada menurunnya tingkat turnover. Karyawan dengan kompensasi yang lebih tinggi cenderung menunjukkan loyalitas yang lebih besar terhadap perusahaan.
 3. Work Life Balance merupakan salah satu faktor motivasi utama bagi karyawan. Namun demikian, karyawan yang telah memiliki keseimbangan kerja dan kehidupan pribadi yang baik tetap cenderung mencari peluang baru untuk meningkatkan standar hidup mereka.
 4. Departemen yang menuntut pencapaian target tinggi, seperti Sales, cenderung memiliki tingkat turnover yang lebih tinggi dibandingkan dengan departemen yang bersifat administratif, seperti Human Resources.
