@@ -21,7 +21,47 @@ Untuk mencegah masalah ini memburuk, manajer departemen HR meminta bantuan Saya 
 
 **Dataset source:** [Employee data](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee 'Dicoding GitHub - Employee data')
 
+## Setup Environment - Anaconda
 
+1. Clone Repository
+   ```bash
+   git clone https://github.com/RozyRangkuti/Employee-Attrition-Analysis.git
+   ```
+
+2. Buka Terminal Anaconda, jalankan perintah berikut untuk membuat environment baru
+   ```bash
+   conda create --name main-ds python=3.11
+   ```
+
+3. Aktifkan virtual environment dengan menjalankan perintah berikut ini
+   ```bash
+   conda activate main-ds
+   ```
+
+4. Install semua requirements di dalam file "requirements.txt"
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Menjalankan Dashboard
+ Untuk melihat isi dashboard secara langsung, kita dapat menggunakan metabase dengan bantuan Docker (pastikan Docker sudah terinstall).
+
+1. Jalankan perintah berikut
+   ```bash
+   docker pull metabase/metabase:v0.46.4
+   ```
+
+2. Jalankan container Metabase menggunakan perintah
+   ```bash
+   docker run -p 3000:3000 --name metabase metabase/metabase
+   ```
+
+3. Login ke Metabase menggunakan username dan password berikut
+   ```bash
+   Username : muhammadrozy37@gmail.com
+   Pass     : mrozys123
+   ```
+ 
 ## Bussiness Dashbord Using Metabase
 Jaya Jaya Maju Employees Dashboard ini dirancang seefisien mungkin untuk memberikan wawasan kepada para manajer HR Departemen mengenai tingkat attrition yang cukup tinggi, yakni lebih dari 10%. Berikut tampilan Dashboard menggunakan Metabase.
 
@@ -165,10 +205,3 @@ Berikut beberapa rekomendasi yang dapat diimplementasikan perusahaan untuk menga
 4. Bangun budaya kerja yang mendorong keseimbangan antara pekerjaan dan kehidupan pribadi. Terapkan lingkungan kerja seperti fleksibilitas waktu kerja, bekerja dari rumah, dan cuti yang fleksibel untuk membantu mengurangi kejenuhan dan stres yang terkait dengan pekerjaan mereka, karena karyawan dengan work life balance yang buruk cenderung memiliki tingkat attrition yang lebih tinggi. Hal ini penting untuk menjaga keseimbangan dan membantu mengurangi angka perputaran karyawan.
 6. Lakukan pemantauan secara terus-menerus terhadap tingkat attrition dan lakukan analisis mendalam untuk mengidentifikasi tren serta faktor risiko lebih awal. Langkah ini akan memungkinkan perusahaan untuk mengantisipasi potensi masalah dan mengambil tindakan pencegahan yang tepat.
 7. Tingkatkan komunikasi antara manajemen dan karyawan untuk lebih memahami kebutuhan dan harapan mereka.
-
-
-### Metabase Account
-```
-Username : muhammadrozy37@gmail.com
-Pass     : mrozys123
-```
