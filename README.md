@@ -59,7 +59,7 @@ Untuk mencegah masalah ini memburuk, manajer departemen HR meminta bantuan Saya 
 3. Login ke Metabase menggunakan username dan password berikut
    ```bash
    Username : muhammadrozy37@gmail.com
-   Pass     : mrozys123
+   Pass     : **********
    ```
  
 ## Bussiness Dashbord Using Metabase
